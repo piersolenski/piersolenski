@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/piers/image/upload/e_camera:up_0;right_0;frames_36/dl_2,f_webp,fl_animated/c_scale,w_500/b_auto,c_pad,h_300,w_500/b_rgb:000000/dpr_2.0/bust" alt="Piers Olenski"  style="max-width: 100%;">
+<img src="https://res.cloudinary.com/piers/image/upload/e_camera:up_0;right_0;frames_36/dl_2,f_webp,fl_animated/c_scale,w_500/b_auto,c_pad,h_300,w_500/b_rgb:0d1117/dpr_2.0/bust" alt="Piers Olenski"  style="max-width: 100%;">
 
 Hey, I'm Piers, a Front-End Developer and Technical Lead from London, UK.
 
